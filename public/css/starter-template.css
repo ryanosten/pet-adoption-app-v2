@@ -15,6 +15,7 @@ footer {
 }
 .active>.nav-link {
   color: hotpink !important;
+  border-bottom: 2px solid lightgray;
 }
 
 .navbar-brand {
